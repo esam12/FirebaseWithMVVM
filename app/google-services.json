@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451770572684",
+    "project_id": "note-app-597b4",
+    "storage_bucket": "note-app-597b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451770572684:android:272accee818e04c12440a9",
+        "android_client_info": {
+          "package_name": "com.example.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451770572684-ccl1gel5j7o555sf7qjm3i0ijb7tnreq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookapp",
+            "certificate_hash": "ddd7f9c154d9b655d21f62c84a86b3a4035c4f0f"
+          }
+        },
+        {
+          "client_id": "451770572684-mqkdq8m9d4ms8cr1m9m48rqqm75oeaii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSUSLF01TznPgD2ztV91XVBXJEsp7OEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451770572684-mqkdq8m9d4ms8cr1m9m48rqqm75oeaii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
